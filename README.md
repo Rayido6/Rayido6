@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rayjerry
+- 👋 Hi, I’m @rayido6
 - 👀 I’m interested in html, javascript,css,solidity
 - 🌱 I’m currently learning javascript,solidity
 - 📫 You can reach me here or email
-- My eth address: 0xF5327958739b9E48FcEb41E651eb8cF8A65B151c
 
 <!---
 Rayido6/Rayido6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
